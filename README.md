@@ -27,8 +27,7 @@ Example: lazymux.conf
 `HOME = /sdcard`
 
 
-## Screenshot
-<img src="core/lazymux_4.png">
+
 
 ### Requirements
 • Python 3.x
